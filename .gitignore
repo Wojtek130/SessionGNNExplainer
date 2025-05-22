@@ -1,0 +1,90 @@
+TAGNN/matplotlib-pdi0_xv1/
+Diginetica \Dataset \Preparation
+TAGNN/dataset*
+TAGNN/sessions_data_batch_1.pt
+TAGNN/sessions_data_batch_2.pt
+YooChoose \1_64 \Dataset \Preparation
+amazon_books200_small2.pcklz
+bigram_matrix_yoochoose.pth
+bigram_matrix_amazon_books.pth
+sessions_data/
+explanation_files_stability_3/
+model_2.py
+track_mask_and_scores.ipynb
+find_best_session.ipynb
+add_best_non_target.py
+bigram_analysis.ipynb
+bigram_metric.ipynb
+sessions_to_visualize.txt
+TAGNN_playground.ipynb 
+TAGNNWrapper.ipynb 
+top_5_vertices_analysis.ipynb 
+view_elems.ipynb
+matplotlib-pdi0_xv1/
+table.tex
+find_best_session.py
+explanation_files_long_training_rerun_additional/
+explanation_files_long_training_rerun_modify_session_embeddings_additional/
+move_files.py
+table_formatter.py
+visualization_snippets.ipynb 
+sessions_data.pt
+sessions_data2.pt
+edge_index_tensor.pt 
+sessions_data_2
+vertex_ranking_2.pt
+images/
+tables/
+embeddings_edge_index_preparation.ipynb
+script.py
+output.tex
+
+
+
+SessionExplainerOld.ipynb
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Ignore Jupyter Notebook metadata
+**/.ipynb_checkpoints
+
+# Ignore virtual environments
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore hidden files and system files
+.DS_Store
+Thumbs.db
+
+# Ignore output files
+*.out
+*.log
+*.csv
+*.tsv
+*.db
+*.sqlite
+*.h5
+*.hdf5
+*.parquet
+*.feather
+*.joblib
+*.pkl
+
+# Ignore environment and dependency files
+.envrc
+*.env
+*.conda
+*.yaml
+Pipfile
+Pipfile.lock
+
+# Ignore Jupyter Notebook kernel specs
+.kernels/
