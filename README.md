@@ -15,7 +15,7 @@ The most important files and directories are located in the `TAGNN` directory (o
 - `edge_index_preparation.ipynb` - creates edge index tensor
 - `environment.yaml` - list of required `Conda` packages
 - `mock.py` - demonstration how to use the `GNNExplainer` for session-based data
-- `model.py` - orignal `model.py` file from `TAGNN` repository but with modified embeddings calculations
+- `model.py` - original `model.py` file from `TAGNN` repository but with modified embeddings calculations
 - `prepare_session_data.ipynb` - creates files containing preprocessed information for sessions from all batches
 - `run_statistics_long_training.ipynb` - contains metrics implementation and explanation statistics
 - `SessionExplainer.py` - core module delivering explanations of session-based data
