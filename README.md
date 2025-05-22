@@ -1,4 +1,4 @@
-# wroxai-gnn-recsys
+# Session GNNExplainer
 wroXAI part for explaining Recommender Systems based on Graph Neural Networks
 
 ## Overview
